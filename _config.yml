@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Life begins at the end of your comfort zone."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/author1.png"
+me-img: "/img/author1.jpg"
 
 ##############################
 # Color the browser elements #
@@ -143,7 +143,7 @@ email: "reardona@knights.ucf.edu"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author1.png"
+author_blurb_image: "/img/author1.jpg"
 
 ##################
 # Social Buttons #
