@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "https://ashleyreardon.github.io/alr/"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ url: "https://panossakkos.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: "/alr"
 
 # Google tracking id
 
@@ -29,19 +29,19 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+author: "Ashley Reardon"
+title: "Ashley L Reardon"
+description: "Professional website of Ashley Reardon, human performance researcher and gaming enthusiast"
+keywords: "reardon, ashley, human performance, research, gaming"
+favicon: "/img/favicon1.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon1.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/ffs.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
+  - text: "Life begins at the end of your comfort zone."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author1.png"
 
 ##############################
 # Color the browser elements #
@@ -70,7 +70,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False #was true
 
 # Icons for Web App mode
 
@@ -112,11 +112,17 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "May 2016 - Present"
+    description: "Quantum Improvements Consulting, did more stuff"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "August 2016 - May 2018"
+    description: "University of Central Florida, Master of Modeling and Simulation"
+  - image: "/img/timeline/spidertocat.png"
+    date: "June 2016 - May 2016"
+    description: "Prodigy Lab, Did stuff"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "August 2013 - May 2016"
+    description: "University of Central Florida, Bachelor of Arts in Psychology"
 
 # First image of the Timeline
 
@@ -126,7 +132,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "reardona@knights.ucf.edu"
 
 ################
 # Author Blurb #
@@ -137,23 +143,25 @@ email: "your@email.here"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/author1.png"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+  #- title: "facebook"
+    #url: "https://facebook.com/"
+  #- title: "twitter"
+    #url: "https://twitter.com/"
+  #- title: "github"
+    #url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+  #- title: "bitcoin"
+    #url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  #- title: "rss"
+    #url: "/feed.xml"
+   - title: "linkedin"
+    #url: "https://linkedin.com/in/ashleylaurenreardon/"
 
 ############
 # 404 page #
@@ -165,9 +173,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: johnsmith
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
@@ -177,7 +185,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Resume: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
