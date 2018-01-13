@@ -161,7 +161,7 @@ social:
   #- title: "rss"
     #url: "/feed.xml"
    - title: "linkedin"
-    #url: "https://linkedin.com/in/ashleylaurenreardon/"
+     url: "https://linkedin.com/in/ashleylaurenreardon/"
 
 ############
 # 404 page #
@@ -186,7 +186,7 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: 'about'
   Resume: 'latest-post'
-  Timeline: 'timeline'
+  Publications: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
