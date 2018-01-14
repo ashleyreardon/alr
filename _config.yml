@@ -114,16 +114,16 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "May 2016 - Present"
-    description: "Quantum Improvements Consulting, did more stuff"
+    description: "Quantum Improvements Consulting. Conducted usability testing and applied human factors and instructional design expertise to the development of a mobile application for financial training."
   - image: "/img/timeline/baracktocat.jpg"
     date: "August 2016 - May 2018"
-    description: "University of Central Florida, Master of Modeling and Simulation"
+    description: "University of Central Florida, Master of Modeling and Simulation. Developed expertise in human computer interaction, instructional design, human factors, modeling and simulation and gained experience working in multi-disciplinary teams."
   - image: "/img/timeline/spidertocat.png"
     date: "June 2016 - May 2016"
-    description: "Prodigy Lab, Did stuff"
+    description: "Prodigy Lab. Helped develop a simulation to research illicit search activity through eye-tracking technology."
   - image: "/img/timeline/baracktocat.jpg"
     date: "August 2013 - May 2016"
-    description: "University of Central Florida, Bachelor of Arts in Psychology"
+    description: "University of Central Florida, Bachelor of Arts in Psychology. Discovered my passion for research and engaged in several research projects like predicting levels of trust in human-robot interactions."
 
 # First image of the Timeline
 
@@ -143,8 +143,8 @@ email: "reardona@knights.ucf.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author1.jpg"
+#author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+#author_blurb_image: "/img/author1.jpg"
 
 ##################
 # Social Buttons #
@@ -186,7 +186,7 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  Publications: 'latest-post'
+  #Publications: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
