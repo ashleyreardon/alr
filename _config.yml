@@ -34,6 +34,7 @@ title: "Ashley L Reardon"
 description: "Professional website of Ashley Reardon, human performance researcher and gaming enthusiast"
 keywords: "reardon, ashley, human performance, research, gaming"
 #favicon: "/img/favicon1.ico"
+<link rel="icon" href="/images/favicon1.ico?" type="image/x-icon">
 
 ################
 # Header layout #
