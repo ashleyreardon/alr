@@ -123,7 +123,7 @@ events:
     description: "<b>University of Central Florida, Master of Modeling and Simulation</b>
     Developed expertise in human computer interaction, instructional design, human factors, modeling and simulation and gained experience working in multi-disciplinary teams."
   #- image: "/img/timeline/spidertocat.png"
-  - image: "/img/timeline/research.jpg
+  - image: "/img/timeline/research.jpg"
     date: "June 2016 - May 2016"
     description: "<b>University of Central Florida, Prodigy Research Lab</b> 
     Helped develop a simulation to research illicit search activity through eye-tracking technology."
