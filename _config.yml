@@ -122,8 +122,7 @@ events:
   - image: "/img/timeline/edu.jpg"
     date: "August 2016 - May 2018"
     description: "<b>University of Central Florida, Master of Modeling and Simulation</b>
-    <p>Developed expertise in human computer interaction, instructional design, human factors, modeling and simulation and gained experience working in multi-disciplinary teams."
-  </p>
+    Developed expertise in human computer interaction, instructional design, human factors, modeling and simulation and gained experience working in multi-disciplinary teams."
   #- image: "/img/timeline/spidertocat.png"
   - image: "/img/timeline/research.jpg"
     date: "June 2016 - May 2016"
