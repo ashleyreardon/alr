@@ -116,21 +116,25 @@ events:
   - image: "/img/timeline/research.jpg"
     date: "May 2016 - Present"
     description: "<b>Quantum Improvements Consulting</b>
+    
     Conducted usability testing and applied human factors and instructional design expertise to the development of a mobile application for financial training."
   #- image: "/img/timeline/baracktocat.jpg"
   - image: "/img/timeline/edu.jpg"
     date: "August 2016 - May 2018"
     description: "<b>University of Central Florida, Master of Modeling and Simulation</b>
+    
     Developed expertise in human computer interaction, instructional design, human factors, modeling and simulation and gained experience working in multi-disciplinary teams."
   #- image: "/img/timeline/spidertocat.png"
   - image: "/img/timeline/research.jpg"
     date: "June 2016 - May 2016"
     description: "<b>University of Central Florida, Prodigy Research Lab</b> 
+    
     Helped develop a simulation to research illicit search activity through eye-tracking technology."
   #- image: "/img/timeline/baracktocat.jpg"
   - image: "/img/timeline/edu.jpg"
     date: "August 2013 - May 2016"
     description: "<b>University of Central Florida, Bachelor of Arts in Psychology</b>
+    
     Discovered my passion for research and engaged in several research projects like predicting levels of trust in human-robot interactions."
 
 # First image of the Timeline
