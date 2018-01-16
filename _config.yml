@@ -114,7 +114,7 @@ syntax-highlight: True
 events:
   #- image: "/img/timeline/spidertocat.png"
   - image: "/img/timeline/research.jpg"
-    date: "May 2016 - Present"
+    date: "May 2017 - Present"
     description: "<b>Quantum Improvements Consulting</b>
     
     \
@@ -130,7 +130,7 @@ events:
     Developed expertise in human computer interaction, instructional design, human factors, modeling and simulation and gained experience working in multi-disciplinary teams."
   #- image: "/img/timeline/spidertocat.png"
   - image: "/img/timeline/research.jpg"
-    date: "June 2016 - May 2016"
+    date: "July 2016 - May 2017"
     description: "<b>University of Central Florida, Prodigy Research Lab</b> 
     
     \
