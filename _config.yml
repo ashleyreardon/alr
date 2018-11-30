@@ -1,3 +1,5 @@
+Functional config file:
+
 
 # Site settings
 
@@ -111,28 +113,43 @@ syntax-highlight: True
 # Timeline #
 ############
 
-
+events:
   #- image: "/img/timeline/spidertocat.png"
   - image: "/img/timeline/research.jpg"
+    date: "May 2017 - Present"
+    description: "<b>Quantum Improvements Consulting</b>
+    
+    \
+    
+    Conducted usability testing and applied human factors and instructional design expertise to the development of a mobile application for financial training."
+  #- image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/edu.jpg"
+    date: "August 2016 - May 2018"
+    description: "<b>University of Central Florida, Master of Modeling and Simulation</b>
+    
+    \
+    
+    Developed expertise in human computer interaction, instructional design, human factors, modeling and simulation and gained experience working in multi-disciplinary teams."
+  #- image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/research.jpg"
+    date: "July 2016 - May 2017"
+    description: "<b>University of Central Florida, Prodigy Research Lab</b> 
+    
+    \
+    
+    Helped develop a simulation to research illicit search activity through eye-tracking technology."
+  #- image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/edu.jpg"
+    date: "August 2013 - May 2016"
+    description: "<b>University of Central Florida, Bachelor of Arts in Psychology</b>
+    
+    \
+    
+    Discovered my passion for research and engaged in several research projects like predicting levels of trust in human-robot interactions."
 
-<small>
-<b>Publications:</b>
-</small>
+# First image of the Timeline
 
-<b>Reardon, A.</b>, Abich, J., Murphy, J., Hannigan, F. (2018). <a href="http://www.modsimworld.org/papers/2018/MODSIM_2018_Paper_not_required_for_a_23.pdf">Evolution of Green Pig: Best practices in mobile app design.  Paper presented at MODSIM World, Norfolk, VA.
-
-
-<b>Reardon, A.</b>, Volante, W., Sanders, T., & Hancock, P. (2016). <a href="http://tg.hfes.org/actg/pdfs/ACTG%202016%20Newsletter.pdf">Implicit measures as a calibration tool for the symbiotic human/robot system</a>.  AugCog Technical Group, 9 (1), 7-8.
-
-
-<b>Reardon, A.</b>, Volante, W., Sanders, & Hancock, P. A. (August, 2016). Using an implicit association test to reveal hidden biases toward robots. Paper presented at the 124th Annual American Psychological Association Convention, Denver, CO.
-
-
-Sanders, T. L., Schafer, K. E., Volante, W., <b>Reardon, A.</b>, & Hancock, P. A. (September, 2016). <a href="http://journals.sagepub.com/doi/pdf/10.1177/1541931213601400">Implicit attitudes toward robots</a>. Proceedings of the Human Factors and Ergonomics Society Annual Meeting (Vol. 60, No. 1, pp. 1746-1749). SAGE Publications.
-
-
-Volante, W. G., Sanders, T., <b>Reardon, A.</b>, & Hancock, P. (April, 2016). <a href="https://commons.erau.edu/cgi/viewcontent.cgi?article=1143&context=hfap">Do you know if you trust a robot? Influences that mediate implicit and explicit trust</a>. Poster presented at the 10th Human Factors & Applied Psychology Student Conference, Daytona Beach, FL.
-
+timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
@@ -211,3 +228,4 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+
