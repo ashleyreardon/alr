@@ -1,22 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @ashleyreardon Sign out
-0
-0 588 ashleyreardon/alr
-forked from le4ker/personal-jekyll-theme
- Code  Pull requests 0  Projects 0  Insights  Settings
-alr/_config.yml
-5578275  an hour ago
-@ashleyreardon ashleyreardon Update _config.yml
-@le4ker @ashleyreardon @joariasl @kartikarora @bgoldman @djcaesar9114 @prashantsolanki3 @eiselems @kairaygun
-      
-Executable File  230 lines (166 sloc)  5.77 KB
 
 # Site settings
 
@@ -50,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Ashley Reardon"
 title: "Ashley L Reardon"
-description: "Professional website of Ashley Reardon, human performance researcher and UI/UX enthusiast"
+description: "Professional website of Ashley Reardon, human performance researcher and gaming enthusiast"
 keywords: "reardon, ashley, human performance, research, gaming"
 #favicon: "/img/favicon1.ico"
 favicon: "/img/favicon1.ico" 
@@ -112,17 +93,17 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: False
-twitter-share: False
+fb-share: True
+twitter-share: True
 linkedin-share: True
-reddit-share: False
-google-plus-share: False
-tumblr-share: False
-pinterest-share: False
-pocket-share: False
-vkontakte-share: False
+reddit-share: True
+google-plus-share: True
+tumblr-share: True
+pinterest-share: True
+pocket-share: True
+vkontakte-share: True
 
-#disqus-shortname: "panossakkos"
+disqus-shortname: "panossakkos"
 
 syntax-highlight: True
 
@@ -226,7 +207,6 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: 'about'
   #Publications: 'latest-post'
-  Portfolio: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
