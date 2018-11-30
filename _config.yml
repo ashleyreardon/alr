@@ -1,3 +1,22 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @ashleyreardon Sign out
+0
+0 588 ashleyreardon/alr
+forked from le4ker/personal-jekyll-theme
+ Code  Pull requests 0  Projects 0  Insights  Settings
+alr/_config.yml
+5578275  an hour ago
+@ashleyreardon ashleyreardon Update _config.yml
+@le4ker @ashleyreardon @joariasl @kartikarora @bgoldman @djcaesar9114 @prashantsolanki3 @eiselems @kairaygun
+      
+Executable File  230 lines (166 sloc)  5.77 KB
 
 # Site settings
 
@@ -112,7 +131,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  #- image: "/img/timeline/spidertocat.png"
   - image: "/img/timeline/research.jpg"
     date: "May 2017 - Present"
     description: "<b>Quantum Improvements Consulting</b>
@@ -120,15 +139,15 @@ events:
     \
     
     Conducted usability testing and applied human factors and instructional design expertise to the development of a mobile application for financial training."
-  - image: "/img/timeline/baracktocat.jpg"
+  #- image: "/img/timeline/baracktocat.jpg"
   - image: "/img/timeline/edu.jpg"
     date: "August 2016 - May 2018"
-   description: "<b>University of Central Florida, Master of Modeling and Simulation</b>
+    description: "<b>University of Central Florida, Master of Modeling and Simulation</b>
     
     \
     
     Developed expertise in human computer interaction, instructional design, human factors, modeling and simulation and gained experience working in multi-disciplinary teams."
-  - image: "/img/timeline/spidertocat.png"
+  #- image: "/img/timeline/spidertocat.png"
   - image: "/img/timeline/research.jpg"
     date: "July 2016 - May 2017"
     description: "<b>University of Central Florida, Prodigy Research Lab</b> 
@@ -136,7 +155,7 @@ events:
     \
     
     Helped develop a simulation to research illicit search activity through eye-tracking technology."
-  - image: "/img/timeline/baracktocat.jpg"
+  #- image: "/img/timeline/baracktocat.jpg"
   - image: "/img/timeline/edu.jpg"
     date: "August 2013 - May 2016"
     description: "<b>University of Central Florida, Bachelor of Arts in Psychology</b>
@@ -145,7 +164,7 @@ events:
     
     Discovered my passion for research and engaged in several research projects like predicting levels of trust in human-robot interactions."
 
- First image of the Timeline
+# First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
 
@@ -206,9 +225,9 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  #Publications: 'publication'
-  #Portfolio: 'latest-post'
-  Publications: 'timeline'
+  #Publications: 'latest-post'
+  Portfolio: 'latest-post'
+  Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
