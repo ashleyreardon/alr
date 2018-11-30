@@ -111,8 +111,6 @@ syntax-highlight: True
 # Timeline #
 ############
 
-
-
 events:
   - image: "/img/timeline/spidertocat.png"
   - image: "/img/timeline/research.jpg"
