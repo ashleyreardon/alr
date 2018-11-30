@@ -206,7 +206,7 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  Publications: 'publications'
+  Publications: 'publication'
   #Portfolio: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
