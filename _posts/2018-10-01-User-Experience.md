@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Welcome to my portfolio
-category: UIUX
-tags: [ 'portfolio' ]
+#category: technology
+#tags: 
 ---
 
 Insert UI/UX Portfolio Here
