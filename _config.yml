@@ -30,8 +30,8 @@ force-https: True
 lang: "en"
 author: "Ashley Reardon"
 title: "Ashley L Reardon"
-description: "Professional website of Ashley Reardon, human performance researcher and gaming enthusiast"
-keywords: "reardon, ashley, human performance, research, gaming"
+description: "Professional website of Ashley Reardon, human performance researcher and UI/UX enthusiast"
+keywords: "reardon, ashley, human performance, research, UI/UX design"
 #favicon: "/img/favicon1.ico"
 favicon: "/img/favicon1.ico" 
 
@@ -168,7 +168,7 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: 'about'
   Portfolio: 'latest-post'
-  Timeline: 'timeline'
+  Publications: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
